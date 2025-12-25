@@ -4,8 +4,8 @@ title: about
 permalink: /
 subtitle: >
   <a href='#'>University of California, Santa Cruz</a>
-  <"در نومیدی بسی امید است ، پایان شب سیه ، سپید است - نظامی گنجوی">
-  <"In despair, there is much hope; the end of the dark night is a bright day." - Nizami Ganjavi>
+  <p>"در نومیدی بسی امید است ، پایان شب سیه ، سپید است - نظامی گنجوی"<p/>
+  <p>"In despair, there is much hope; the end of the dark night is a bright day." - Nizami Ganjavi</p>
 
 profile:
   align: right
