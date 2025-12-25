@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+3rd year Robotics Engineering student at UC Santa Cruz with a focus on AI and autonomous technologies. I’ve worked on software-defined radios and RF jamming at the Naval Air Warfare Center, contributed to AV research involving LLMs and sensor robustness, and am currently an AI/ML Fellow at Cornell Tech. I’ve led multidisciplinary teams, published research, and enjoy building intelligent systems that bridge software and hardware. Always open to connecting over robotics, machine learning, or research collaborations. Reach me via [LinkedIn](www.linkedin.com/in/denise-ataei) or at denise.ataei1010@gmail.com.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
