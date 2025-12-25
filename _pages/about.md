@@ -8,8 +8,8 @@ profile:
   align: right
   image: pfp.png
   image_circular: false # crops the image to make it circular
- # more_info: >
- #   <p>555 your office number</p>
+  more_info: >
+    <p>denise.ataei1010@gmail.com</p>
  #   <p>123 your address street</p>
  #   <p>Your City, State 12345</p>
 
@@ -27,6 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-3rd year Robotics Engineering student at UC Santa Cruz with a focus on AI and autonomous technologies. I’ve worked on software-defined radios and RF jamming at the Naval Air Warfare Center, contributed to AV research involving LLMs and sensor robustness, and am currently an AI/ML Fellow at Cornell Tech. I’ve led multidisciplinary teams, published research, and enjoy building intelligent systems that bridge software and hardware. Always open to connecting over robotics, machine learning, or research collaborations. Reach me via [LinkedIn](www.linkedin.com/in/denise-ataei) or at denise.ataei1010@gmail.com.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+3rd year Robotics Engineering student at UC Santa Cruz with a focus on AI and autonomous technologies. I’ve worked on software-defined radios and radio-frequency jamming at the Naval Air Warfare Center, contributed to autonomous vehicle research involving LLMs and sensor robustness, and was an AI/ML Fellow at Cornell Tech. I’ve led multidisciplinary teams, published research, and enjoy building intelligent systems that bridge software and hardware. Always open to connecting over robotics, machine learning, or research collaborations. Reach me via [LinkedIn](www.linkedin.com/in/denise-ataei) or email, and feel free to check out my [Google Scholar](https://scholar.google.com/citations?user=Tqvl1j0AAAAJ&hl=en). 
