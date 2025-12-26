@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href='#'>[University of California, Santa Cruz](https://www.ucsc.edu/)</a>
+  <a href="https://www.ucsc.edu/">University of California, Santa Cruz</a>
   <p>"در نومیدی بسی امید است ، پایان شب سیه ، سپید است. - نظامی گنجوی"<p/>
   <p>"In despair, there is much hope; the end of the dark night is a bright day." - Nizami Ganjavi</p>
 
