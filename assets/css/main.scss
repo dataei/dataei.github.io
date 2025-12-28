@@ -23,9 +23,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-
-/* Latest posts scroll box on the About page */
-.latest-posts {
-  max-height: 10px;  /* adjust */
-  overflow-y: auto;
-}
