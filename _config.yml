@@ -152,6 +152,10 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  posts:
+    output: true
+    navbar: false
+
   books:
     output: true
   news:
@@ -160,6 +164,7 @@ collections:
     output: true
   projects:
     output: true
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
