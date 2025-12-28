@@ -83,6 +83,17 @@ ninja.data = [{
             window.open("https://www.linkedin.com/posts/denise-ataei_this-november-i-had-the-privilege-of-attending-activity-7400422763360075776-MP_I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEoR7pUBWxeoXlLg-C3108BGPeDOeTPkLMM", "_blank");
           
         },
+      },{id: "post-software-defined-radio-audio-demo",
+        
+          title: 'Software-Defined Radio Audio Demo <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/denise-ataei_this-summer-i-dove-into-the-elusive-field-activity-7372084142689169409-xesI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEoR7pUBWxeoXlLg-C3108BGPeDOeTPkLMM", "_blank");
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -191,17 +202,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/geojson-map/";
-          
-        },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
           
         },
       },{id: "post-a-post-with-chart-js",
