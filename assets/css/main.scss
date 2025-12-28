@@ -26,6 +26,6 @@ $max-content-width: {{ site.max_width }};
 
 /* Latest posts scroll box on the About page */
 .latest-posts {
-  max-height: 260px;  /* adjust */
+  max-height: 100px;  /* adjust */
   overflow-y: auto;
 }
