@@ -27,7 +27,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit:  # leave blank to include all the blog posts
 ---
 
 3rd year Robotics Engineering student at UC Santa Cruz with a focus on AI and autonomous technologies. I’ve worked on software-defined radios and frequency jamming at the Naval Air Warfare Center. I have contributed to autonomous vehicle research involving LLMs and sensor robustness, and was an AI/ML Fellow at Cornell Tech. I’ve led multidisciplinary teams, published research, and enjoy building intelligent systems that bridge software and hardware. Always open to connecting over robotics, machine learning, or research collaborations. 
