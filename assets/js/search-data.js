@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-title",
+            },{id: "post-",
         
-          title: "title",
+          title: "",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/2025-03-26-plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
