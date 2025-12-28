@@ -105,6 +105,17 @@ ninja.data = [{
             window.open("https://www.linkedin.com/posts/denise-ataei_im-pleased-to-share-that-our-paper-enhancing-activity-7346427213312901120-J-Qw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEoR7pUBWxeoXlLg-C3108BGPeDOeTPkLMM", "_blank");
           
         },
+      },{id: "post-cornell-university-fellowship",
+        
+          title: 'Cornell University Fellowship <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/denise-ataei_i-am-delighted-to-announce-that-i-will-be-activity-7302447962087993344-2T54?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEoR7pUBWxeoXlLg-C3108BGPeDOeTPkLMM", "_blank");
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -301,17 +312,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/videos/";
-          
-        },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-        
-          title: "displaying beautiful tables with Bootstrap Tables",
-        
-        description: "an example of how to use Bootstrap Tables",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tables/";
           
         },
       },{id: "post-a-post-with-table-of-contents",
