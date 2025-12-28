@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-ieee-itsc-2025",
+            },{id: "post-plotly",
         
-          title: "IEEE ITSC 2025",
+          title: "Plotly",
         
         description: "",
         section: "Posts",
