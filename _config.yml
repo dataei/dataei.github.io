@@ -98,6 +98,14 @@ pagination:
 related_blog_posts:
   enabled: true
   max_related: 5
+  
+#added myself
+blog:
+  navigation:
+    enabled: false
+
+blog_nav_title: ""
+###############
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
