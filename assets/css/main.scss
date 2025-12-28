@@ -23,3 +23,12 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* scroll box for latest posts */
+.latest-posts-scroll {
+  max-height: 260px;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+  border: 1px solid rgba(255,255,255,0.08); /* optional */
+  border-radius: 12px; /* optional */
+}
